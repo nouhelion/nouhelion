@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a align="center" src="Assets/code.gif"></a>
+<p align="center">
+  <a><img src="https://github.com/nouhelion/nouhelion/main/code.gif" width="60%"></a>
+</p>
