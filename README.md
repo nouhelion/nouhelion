@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 <p align="center">
   <a><img src="https://github.com/nouhelion/nouhelion/blob/main/code.gif" width="60%"></a>
 </p>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nouhelion)
+
