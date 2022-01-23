@@ -16,3 +16,7 @@ Here are some ideas to get you started:
   <a><img src="https://github.com/nouhelion/nouhelion/blob/main/code.gif" width="60%"></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouhelion&theme=tokyonight)
