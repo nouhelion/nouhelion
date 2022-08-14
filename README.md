@@ -18,6 +18,7 @@
 <img src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo-1024x1024.png" width="auto" height="40px" alt="Jetbrains" border="0">
 <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" width="50px" height="50px" alt="Jetbrains" border="0">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn-images-1.medium.com/max/1200/1*ti5CnGh_T4Kqy5aCTLJRcg.png" alt="git" width="40" height="40"/> 
 <img src="https://i.ibb.co/7KZpZkL/1024px-Github-desktop-logo-symbol-svg.png" height="40" width="40" alt="1024px-Github-desktop-logo-symbol-svg" border="0">
 </p>
 
