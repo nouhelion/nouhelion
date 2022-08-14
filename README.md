@@ -52,11 +52,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nouhelion&layout=compact&langs_count=12&theme=midnight-purple"/>
 </a>
 </p>
-<h2 align ="left"> Goals: </h2>
-<p align = "left">
- * Learn Javascript Properly.<br>
- * Enter the world of React.<br>
- * Become a lot better with Python.<br>
- * Learn C++ for own personal goals.<br>
- * Learn Odoo on a professional level for work.
-</p>
