@@ -4,8 +4,8 @@
 <p align="center">
   <a><img src="https://github.com/nouhelion/nouhelion/blob/main/code.gif" width="60%"></a>
 </p>
-<h1 align="center">Hello 👋, Welcome to my github page</h1>
-<p>![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)</p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nouhelion&theme=onedark" alt="nouhelion" /></a> </p>
 
