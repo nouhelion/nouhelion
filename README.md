@@ -9,6 +9,14 @@
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nouhelion&theme=onedark" alt="nouhelion" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nouhelion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouhaila" height="30" width="40" /></a>
+<a href="https://www.figma.com/@nouhaila" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="nouhaila" height="30" width="20" /></a>
+<a href="https://www.codingame.com/profile/1a69aff187d7a442e18b54e06b148a534837734" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/codingame.png" alt="nourhan_atet" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/nouhaila_k007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nouhaila" height="30" width="40" /></a>
+<a href="https://leetcode.com/nouhelion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nourhan_atet" height="30" width="40" /></a>
+</p>
 <h2 align="left">Languages and Tools that I can use:</h2>
 
 <h3 align="left">My Environments:</h3>
